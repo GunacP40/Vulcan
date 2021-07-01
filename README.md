@@ -1,5 +1,7 @@
 # Vulcan Configs
-Vulcan Anticheat Config by DarkSaso (mc.darkmoor.xyz)
+Vulcan Anticheat Config by DarkSaso 
+
+**test server:** >soon<
 
 **How to Setup:**
 
